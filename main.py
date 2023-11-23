@@ -1,7 +1,8 @@
 # This is a sample Python script.
 
 def hello_world():
-    print( "Hello, World!")
+    print("Hello, World!")
+    return "Hello, World!"
 
 
 if __name__ == '__main__':
