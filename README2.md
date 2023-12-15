@@ -61,5 +61,5 @@ before the deadline!**
 
 **5. A short statement describing what each team member has contributed.**
 Cristina:
-Jakub:
+Jakub: Managing the GitHub rep, writing part of the model
 Remco: Figuring out parameter settings, documentation writing
