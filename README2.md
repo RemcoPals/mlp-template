@@ -40,9 +40,10 @@ most prominent feature makes up for 20% of the data, we will consider random gue
 That is because if the model was to only predict that label all the time, it would get an accuracy of 20%. 
 
 As can be seen in our classification report, our testing accuracy is 24% which we consider better than random guessing.
-Furthermore, from the diagonal in the confusion matrix(see below) we can clearly see that the model learned to identify multiple classes.
+Furthermore, from the diagonal in the confusion matrix we can clearly see that the model learned to identify multiple classes.
 It seems to have a harder time classifying the classes that are less frequent in the data-set, but can distinguish between
-some of the more frequent classes.
+some of the more frequent classes. If markdown is working properly, the confusion matrix can be found below. If not, it can be found 
+either in the repository or by running the MVP.ipynb script.
 ![Alt text](Confusion Matrix.png)
 
 **3. An outline of what you’re still planning to do. This helps your TA assess whether things
