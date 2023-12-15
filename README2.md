@@ -60,6 +60,6 @@ collaborator. Make sure this actually works. You can also arrange this with your
 before the deadline!**
 
 **5. A short statement describing what each team member has contributed.**
-Cristina:
+Cristina:Writing part of the model, documentation writing
 Jakub: Managing the GitHub rep, writing part of the model
 Remco: Figuring out parameter settings, documentation writing
