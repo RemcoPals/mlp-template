@@ -59,6 +59,8 @@ repository is public (recommended), or you can add your TA’s github account as
 collaborator. Make sure this actually works. You can also arrange this with your TA
 before the deadline!**
 
+Run the main file from our github: https://github.com/RemcoPals/mlp-template
+
 **5. A short statement describing what each team member has contributed.**
 Cristina:Writing part of the model, documentation writing
 Jakub: Managing the GitHub rep, writing part of the model
