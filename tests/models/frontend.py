@@ -14,12 +14,12 @@ def predict_emoji(user_input):
 
 def main():
     st.title('Emoji Prediction')
-    input = st.text_area('Enter your tweet :)', '')
+    inputt = st.text_area('Enter your tweet :)', '')
 
     if st.button('Predict Emoji'):
         # Make prediction when the button is clicked
-        if input:
-            predicted_emoji = predict_emoji(input)
+        if inputt:
+            predicted_emoji = predict_emoji(inputt)
             st.success(f'Predicted Emoji: {predicted_emoji}')
         else:
             st.warning('Please enter a tweet.')
